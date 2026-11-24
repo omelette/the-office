@@ -1,0 +1,428 @@
+{
+  "scope": "Harry Potter Books 1-4 (Philosopher's/Sorcerer's Stone, Chamber of Secrets, Prisoner of Azkaban, Goblet of Fire) — original novels only; no film, Pottermore/Wizarding World, game, or fan-wiki extrapolations.",
+  "booksCovered": [
+    {
+      "book": "Harry Potter and the Philosopher's Stone / Sorcerer's Stone (Book 1)",
+      "officeVisits": 0,
+      "summary": "No visit to Dumbledore's office and no appearance of the stone gargoyle. Dumbledore's final conversation with Harry occurs in the Hospital Wing (Ch. 17). Ch. 1 establishes Dumbledore's fondness for sherbet lemons (UK) / lemon drops (US)."
+    },
+    {
+      "book": "Harry Potter and the Chamber of Secrets (Book 2)",
+      "officeVisits": 1,
+      "chapters": ["Ch. 11 (end) / Ch. 12 (start): The Duelling Club -> The Polyjuice Potion"],
+      "summary": "First appearance and primary architectural description of Dumbledore's office, entrance gargoyle, spiral staircase, oak door with brass griffin knocker, silver instruments on spindle-legged tables, snoozing headmaster/headmistress portraits, enormous claw-footed desk, Sorting Hat on shelf behind desk, and Fawkes on his golden perch behind the door (including full Burning Day sequence). Ch. 18 ('Dobby's Reward') takes place in Professor McGonagall's office, NOT Dumbledore's office."
+    },
+    {
+      "book": "Harry Potter and the Prisoner of Azkaban (Book 3)",
+      "officeVisits": 0,
+      "summary": "No visit to Dumbledore's office and no appearance of the stone gargoyle. At the climax, Harry and Hermione fly Buckbeak to Professor Flitwick's office on the seventh floor, not Dumbledore's office."
+    },
+    {
+      "book": "Harry Potter and the Goblet of Fire (Book 4)",
+      "officeVisits": 2,
+      "corridorAttempts": 1,
+      "chapters": [
+        "Ch. 28: The Madness of Mr. Crouch (gargoyle on second floor)",
+        "Ch. 29-30: The Dream -> The Pensieve (office visit #1)",
+        "Ch. 36: The Parting of the Ways (office visit #2)"
+      ],
+      "summary": "Ch. 28 places the stone gargoyle on the second floor in an empty corridor. Ch. 29-30 introduces 'Cockroach Cluster' password, sound-permeable oak door, Fudge by the desk, Sword of Gryffindor in a glass case, black cabinet left ajar emitting a sliver of silvery light, and the Pensieve (shallow stone basin with odd runes/symbols and swirling bright whitish-silver cloud-like substance neither liquid nor gas). Ch. 36 features Sirius waiting in the office, Harry seated recounting the graveyard events, and Fawkes flying from his perch onto Harry's knee and fluttering to the floor to heal Harry's leg."
+    }
+  ],
+  "excerpts": [
+    {
+      "id": "book1-no-visit",
+      "topic": "Verification of zero office visits in Book 1 (and origin of Sherbet lemon password)",
+      "book": "Harry Potter and the Philosopher's Stone / Sorcerer's Stone",
+      "chapter": "Ch. 1 ('The Boy Who Lived') & Ch. 17 ('The Man with Two Faces')",
+      "editionNote": "UK edition uses 'sherbet lemon'; US Scholastic edition localizes the sweet to 'lemon drop'. No office visit occurs anywhere in Book 1.",
+      "verbatimQuote": "[No verbatim office excerpt exists in Book 1: Harry's post-climax talk with Dumbledore occurs in the hospital wing in Ch. 17.]",
+      "visualFacts": [
+        "Dumbledore's office is never shown or visited in Book 1."
+      ],
+      "spatialClues": [
+        "Harry's end-of-book conversation with Dumbledore takes place in the Hogwarts Hospital Wing, not the Headmaster's Tower."
+      ],
+      "animationOrSoundClues": []
+    },
+    {
+      "id": "cos-ch11-12-gargoyle-staircase",
+      "topic": "Entrance corridor, ugly stone gargoyle, password, splitting wall, and moving spiral staircase",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 11 ('The Duelling Club' end) / Ch. 12 ('The Polyjuice Potion' start)",
+      "editionNote": "UK edition: 'Sherbet lemon!', 'round', 'upwards'. US edition: 'Lemon drop!', 'around', 'upward'.",
+      "verbatimQuote": "They marched in silence round a corner and she stopped before a large and extremely ugly stone gargoyle. 'Sherbet lemon!' she said. This was evidently a password, because the gargoyle sprang suddenly to life, and hopped aside as the wall behind him split in two. Even full of dread for what was coming, Harry couldn't fail to be amazed. Behind the wall was a spiral staircase which was moving smoothly upwards, like an escalator.",
+      "visualFacts": [
+        "Corridor corner turns directly toward a large, extremely ugly carved stone gargoyle standing against a solid stone wall.",
+        "Behind the split wall lies an enclosed spiral stone staircase."
+      ],
+      "spatialClues": [
+        "Gargoyle guards the threshold in a corridor; the wall behind it physically splits in two rather than swinging like a door.",
+        "Spiral staircase ascends upward behind the parted stone wall."
+      ],
+      "animationOrSoundClues": [
+        "Spoken password ('Sherbet lemon!' / 'Lemon drop!') triggers the gargoyle to spring suddenly to life and hop aside.",
+        "The stone wall behind the gargoyle splits smoothly into two halves.",
+        "The spiral staircase moves continuously and smoothly upward like an escalator."
+      ]
+    },
+    {
+      "id": "cos-ch11-12-oak-door-knocker",
+      "topic": "Ascent up spiral staircase to gleaming oak door with brass griffin knocker",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 11 ('The Duelling Club' end) / Ch. 12 ('The Polyjuice Potion' start)",
+      "editionNote": "UK edition uses 'upwards'; US edition uses 'upward'. Note singular 'a gleaming oak door', not double doors.",
+      "verbatimQuote": "They rose upwards in circles, higher and higher, until at last, slightly dizzy, Harry could see a gleaming oak door ahead, with a brass knocker in the shape of a griffin.",
+      "visualFacts": [
+        "Single heavy, gleaming polished oak door at the top landing of the spiral staircase.",
+        "Brass knocker sculpted in the shape of a griffin mounted on the oak door."
+      ],
+      "spatialClues": [
+        "The staircase ascends in multiple circular turns ('higher and higher') high enough to make Harry slightly dizzy before reaching the office door."
+      ],
+      "animationOrSoundClues": [
+        "Circular rising motion of the escalator-like spiral staircase; brass knocker on the oak door (Professor McGonagall knocks to announce arrival)."
+      ]
+    },
+    {
+      "id": "cos-ch12-circular-room-instruments",
+      "topic": "Circular room architecture, ambient noises, and silver instruments on spindle-legged tables",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 12 ('The Polyjuice Potion')",
+      "editionNote": "Consistent across UK and US editions.",
+      "verbatimQuote": "It was a large and beautiful circular room, full of funny little noises. A number of curious silver instruments stood on spindle-legged tables, whirring and emitting little puffs of smoke.",
+      "visualFacts": [
+        "Large, beautiful circular room geometry.",
+        "Multiple slender spindle-legged wooden tables arranged in the room.",
+        "Curious, intricate silver instruments standing atop the spindle-legged tables."
+      ],
+      "spatialClues": [
+        "Circular floor plan accommodating numerous small spindle-legged side tables around the interior."
+      ],
+      "animationOrSoundClues": [
+        "Room is filled with 'funny little noises' from the magical instruments.",
+        "Silver instruments actively whirr, spin/move, and emit little puffs of smoke."
+      ]
+    },
+    {
+      "id": "cos-ch12-portraits",
+      "topic": "Portraits of old headmasters and headmistresses lining the walls",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 12 ('The Polyjuice Potion')",
+      "editionNote": "Preceded in text by 'The walls were...' (observed verbatim clause preserved below).",
+      "verbatimQuote": "covered with portraits of old headmasters and headmistresses, all of whom were snoozing gently in their frames.",
+      "visualFacts": [
+        "Curved circular walls densely hung/covered with framed oil portraits of former Hogwarts headmasters and headmistresses."
+      ],
+      "spatialClues": [
+        "Portraits cover the wall circumference around the circular office."
+      ],
+      "animationOrSoundClues": [
+        "Painted figures appear gently asleep ('snoozing gently in their frames'), with subtle breathing/dozing motion rather than static poses."
+      ]
+    },
+    {
+      "id": "cos-ch12-desk-sorting-hat",
+      "topic": "Enormous claw-footed desk, shelf behind desk, and the Sorting Hat",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 12 ('The Polyjuice Potion')",
+      "editionNote": "Verified transcription/edition variant: 'a shabby, tainted wizard’s hat' (harrypotter.com / fandom transcriptions) vs 'a shabby, tattered wizard’s hat' (lingualeo / weebly transcriptions). Sorting Hat later speaks to Harry: 'Bee in your bonnet, Potter?'",
+      "verbatimQuote": "There was also an enormous, claw-footed desk, and, sitting on a shelf behind it, a shabby, tainted wizard’s hat — the Sorting Hat.",
+      "visualFacts": [
+        "Enormous desk supported by carved claw feet.",
+        "Wall shelf positioned directly behind the enormous desk.",
+        "Shabby, worn, dirty/tattered/patched pointed wizard's hat (the Sorting Hat) resting on that shelf."
+      ],
+      "spatialClues": [
+        "Desk is large enough that Harry walks around it to examine the Sorting Hat on the shelf mounted behind the desk."
+      ],
+      "animationOrSoundClues": [
+        "Sorting Hat remains motionless on the shelf until Harry places it on his head, at which point a small voice speaks inside his ear ('Bee in your bonnet, Potter?')."
+      ]
+    },
+    {
+      "id": "cos-ch12-fawkes-perch-appearance",
+      "topic": "Fawkes on golden perch behind the door (pre-Burning Day decrepit state)",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 12 ('The Polyjuice Potion')",
+      "editionNote": "Consistent across UK and US editions.",
+      "verbatimQuote": "Standing on a golden perch behind the door was a decrepit-looking bird which resembled a half-plucked turkey. Harry stared at it and the bird looked balefully back, making its gagging noise again. Harry thought it looked very ill. Its eyes were dull and, even as Harry watched, a couple more feathers fell out of its tail.",
+      "visualFacts": [
+        "Tall golden bird perch positioned right behind the office entrance door.",
+        "Decrepit bird resembling a half-plucked turkey with dull eyes and sparse tail feathers before Burning Day (later chapters describe his healthy plumage as brilliant crimson/scarlet and gold)."
+      ],
+      "spatialClues": [
+        "Fawkes's golden perch stands specifically behind the gleaming oak entrance door (revealed when looking behind the door)."
+      ],
+      "animationOrSoundClues": [
+        "Bird looks balefully back at Harry, makes repeated gagging noises, and sheds loose tail feathers onto the floor."
+      ]
+    },
+    {
+      "id": "cos-ch12-fawkes-burning-day",
+      "topic": "Fawkes bursting into flames, turning to ash, and rebirth as newborn chick",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 12 ('The Polyjuice Potion')",
+      "editionNote": "US edition uses 'smoldering'; UK edition uses 'smouldering'. Dialogue and rebirth sentences verified across Goodreads/HarryPotter.com.",
+      "verbatimQuote": "\"Professor... your bird—I couldn’t do anything—he just caught fire—\" / \"About time, too. He’s been looking dreadful for days; I’ve been telling him to get a move on.\" / \"Fawkes is a phoenix, Harry. Phoenixes burst into flame when it is time for them to die and are reborn from the ashes. Watch him…\" / Harry looked down in time to see a tiny, wrinkled, newborn bird poke its head out of the ashes. It was quite as ugly as the old one.",
+      "visualFacts": [
+        "Fawkes erupts into a bright ball of fire, then collapses into a smouldering pile of ash on the floor beneath/by his golden perch.",
+        "A tiny, wrinkled, featherless newborn phoenix chick pokes its head out of the grey/smouldering ashes."
+      ],
+      "spatialClues": [
+        "The pile of ash collects on the floor at/below the golden perch behind the door; Harry looks down at the floor to watch the chick emerge."
+      ],
+      "animationOrSoundClues": [
+        "Sudden ignition into a ball of fire accompanied by a loud shriek.",
+        "Fire subsides to smouldering ash; newborn chick stirs and pokes its head upward out of the ash pile.",
+        "Later in the same scene, Hagrid bangs the door open bursting in: \"Professor Dumbledore, sir, it wasn’t Harry!\""
+      ]
+    },
+    {
+      "id": "cos-ch18-sword-mcgonagall-office-note",
+      "topic": "Sword of Gryffindor description & clarification that CoS Ch. 18 occurs in McGonagall's office",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 18 ('Dobby's Reward')",
+      "editionNote": "Important location check: Ch. 18 takes place in Professor McGonagall's office, NOT Dumbledore's office, though the Sorting Hat and Sword of Gryffindor seen here are subsequently kept in Dumbledore's office.",
+      "verbatimQuote": "its handle glittering with rubies the size of eggs.",
+      "visualFacts": [
+        "Gleaming silver goblin-made sword with large egg-sized red rubies set into its hilt."
+      ],
+      "spatialClues": [
+        "In Ch. 18, Harry sets the Sorting Hat, the Sword of Gryffindor, and Riddle's pierced diary on Professor McGonagall's desk (not Dumbledore's). The sword's glass display case in Dumbledore's office is first explicitly described in GoF Ch. 30."
+      ],
+      "animationOrSoundClues": []
+    },
+    {
+      "id": "book3-no-visit",
+      "topic": "Verification of zero office visits in Book 3 (Prisoner of Azkaban)",
+      "book": "Harry Potter and the Prisoner of Azkaban",
+      "chapter": "Entire novel",
+      "editionNote": "Confirmed no visit to Dumbledore's office or stone gargoyle appearance in PoA.",
+      "verbatimQuote": "[No verbatim office excerpt exists in Book 3: Dumbledore's office and the stone gargoyle do not appear in Prisoner of Azkaban.]",
+      "visualFacts": [
+        "Dumbledore's office is absent from Book 3."
+      ],
+      "spatialClues": [
+        "Sirius Black is imprisoned in Professor Flitwick's office on the seventh floor (West Tower), NOT Dumbledore's office."
+      ],
+      "animationOrSoundClues": []
+    },
+    {
+      "id": "gof-ch28-second-floor-gargoyle",
+      "topic": "Stone gargoyle explicitly placed on the second floor in GoF Ch. 28",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 28 ('The Madness of Mr. Crouch')",
+      "editionNote": "Notable canon floor discrepancy: GoF Ch. 28 places the stone gargoyle on the second floor, whereas HBP Ch. 10 places it on the seventh floor.",
+      "verbatimQuote": "Harry tore up the stone steps, through the oak front doors and off up the marble staircase towards the second floor. Five minutes later, he was hurtling toward a stone gargoyle standing halfway along an empty corridor.",
+      "visualFacts": [
+        "Stone gargoyle stands halfway along an empty stone corridor on the second floor."
+      ],
+      "spatialClues": [
+        "Reached from the entrance hall oak front doors and marble staircase up to the second floor.",
+        "When Harry argues with Snape outside the gargoyle, the stone wall behind the gargoyle opens and Dumbledore emerges."
+      ],
+      "animationOrSoundClues": [
+        "Harry fails to open the gargoyle because the password has changed since CoS."
+      ]
+    },
+    {
+      "id": "gof-ch29-30-cockroach-cluster-passwords",
+      "topic": "Harry guessing sweet passwords at the stone gargoyle ('Cockroach Cluster!')",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 ('The Dream' end) / Ch. 30 ('The Pensieve' start)",
+      "editionNote": "Harry tries 'Sherbet lemon?' (UK) / 'Lemon drop?' (US) plus multiple wizarding sweets before 'Cockroach Cluster!' succeeds.",
+      "verbatimQuote": "\"Sherbet lemon?\" he tried tentatively. The gargoyle did not move. \"OK,\" said Harry, staring at it. \"Pear drop. Er – liquorice wand. Fizzing Whizzbees. Drooble's Best Blowing Gum... Bertie Bott's Every-Flavour Beans... oh no, he doesn't like them, does he?... Oh, just open, can't you?\" he said angrily. \"I really want to see him, it's urgent!\" The gargoyle remained immovable. \"Chocolate Frog!\" he yelled angrily, standing on one leg. \"Sugar Quill! Cockroach Cluster!\"",
+      "visualFacts": [
+        "Stone gargoyle stands motionless while incorrect passwords are spoken, then leaps aside when 'Cockroach Cluster!' is shouted."
+      ],
+      "spatialClues": [
+        "After ascending the moving spiral staircase, Harry stands outside the oak door and hears Dumbledore, Cornelius Fudge, and Alastor Moody talking inside—confirming the door is not completely soundproof."
+      ],
+      "animationOrSoundClues": [
+        "Gargoyle remains immovable until 'Cockroach Cluster!', then springs aside revealing the moving spiral staircase."
+      ]
+    },
+    {
+      "id": "gof-ch30-glass-case-black-cabinet-pensieve",
+      "topic": "Sword of Gryffindor in glass case, black cabinet ajar, sliver of silvery light, and Pensieve basin",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 30 ('The Pensieve')",
+      "editionNote": "The glass display case for Gryffindor's sword, the black cabinet, and the Pensieve all debut in this chapter. Notice the cabinet is simply called a 'black cabinet' with an unfastened door—NOT an open glass apothecary cabinet full of memory vials.",
+      "verbatimQuote": "A shallow stone basin lay there, with odd carvings around the edge: runes and symbols that Harry did not recognize.",
+      "visualFacts": [
+        "Godric Gryffindor's ruby-hilted silver sword displayed inside a glass case in the office.",
+        "A black cabinet behind Harry whose solid door was left improperly shut/ajar by Dumbledore before Fudge arrived.",
+        "A sliver of bright silvery-white light shining out from the ajar cabinet door and casting a dancing, shimmering patch of light onto the glass sword case.",
+        "Inside the black cabinet sits the Pensieve: a shallow stone basin carved around its rim with unfamiliar runes and symbols.",
+        "Substance inside the basin is described verbatim across the chapter as 'bright, whitish silver, and cloud-like, moving ceaselessly', 'neither liquid nor gas', and like 'light made liquid – or like wind made solid'."
+      ],
+      "spatialClues": [
+        "Minister Fudge stands beside Dumbledore's desk holding his lime-green bowler hat before Dumbledore, Fudge, and Moody depart, leaving Harry waiting in the room.",
+        "The glass case holding Gryffindor's sword and the black cabinet face one another across part of the circular room (Harry looks at the glass case, sees the dancing reflection on it, and turns to find the ajar black cabinet behind him)."
+      ],
+      "animationOrSoundClues": [
+        "Silvery light dances and shimmers across the glass sword case from the crack in the ajar black cabinet.",
+        "The bright silvery-white substance inside the Pensieve swirls ceaselessly like liquid light / solid wind."
+      ]
+    },
+    {
+      "id": "gof-ch36-fawkes-sirius-armchair",
+      "topic": "Post-graveyard debriefing in Dumbledore's office: Sirius, armchairs, and Fawkes's scarlet-and-gold plumage",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 36 ('The Parting of the Ways')",
+      "editionNote": "GoF Ch. 36 verifies seating (armchairs/chairs) and Fawkes flying from his perch across the office onto Harry's knee and fluttering to the floor.",
+      "verbatimQuote": "scarlet-and-gold bird",
+      "visualFacts": [
+        "Fawkes is fully feathered in brilliant scarlet and gold.",
+        "Office contains seating (armchairs/chairs) where Harry sits in front of/near Dumbledore's desk while Sirius stands/sits close by."
+      ],
+      "spatialClues": [
+        "Sirius Black waits inside the office in human form, then later transforms into a great black dog to walk down with Harry and Dumbledore to the hospital wing.",
+        "Fawkes leaves his perch behind the door, flies across the office to land on Harry's knee, and then flutters down to the floor to shed tears onto Harry's injured leg."
+      ],
+      "animationOrSoundClues": [
+        "Soft rush of Fawkes's wings flying from his perch to Harry's knee; phoenix song comforting Harry; pearly healing tears falling onto Harry's leg wound."
+      ]
+    }
+  ],
+  "passwords": [
+    {
+      "password": "Sherbet lemon",
+      "usEditionVariant": "Lemon drop",
+      "book": "Harry Potter and the Chamber of Secrets",
+      "chapter": "Ch. 11 / Ch. 12",
+      "spokenBy": "Professor Minerva McGonagall",
+      "status": "accepted",
+      "notes": "Based on Dumbledore's fondness for the Muggle sweet established in Book 1 Ch. 1."
+    },
+    {
+      "password": "Sherbet lemon (and earlier passwords)",
+      "usEditionVariant": "Lemon drop",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 28 ('The Madness of Mr. Crouch')",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Password has been changed since Book 2; gargoyle does not move."
+    },
+    {
+      "password": "Sherbet lemon",
+      "usEditionVariant": "Lemon drop",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "First sweet Harry tries tentatively before guessing other Honeydukes treats."
+    },
+    {
+      "password": "Pear drop",
+      "usEditionVariant": "Pear drop",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Guessed by Harry."
+    },
+    {
+      "password": "Liquorice wand",
+      "usEditionVariant": "Licorice wand",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Guessed by Harry."
+    },
+    {
+      "password": "Fizzing Whizzbees",
+      "usEditionVariant": "Fizzing Whizzbees",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Rejected in GoF Ch. 29/30 (later actually becomes the password in OoP!)."
+    },
+    {
+      "password": "Drooble's Best Blowing Gum",
+      "usEditionVariant": "Drooble's Best Blowing Gum",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Guessed by Harry."
+    },
+    {
+      "password": "Bertie Bott's Every-Flavour Beans",
+      "usEditionVariant": "Bertie Bott's Every Flavor Beans",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Harry immediately corrects himself: 'oh no, he doesn't like them, does he?'"
+    },
+    {
+      "password": "Chocolate Frog",
+      "usEditionVariant": "Chocolate Frog",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Shouted angrily by Harry."
+    },
+    {
+      "password": "Sugar Quill",
+      "usEditionVariant": "Sugar Quill",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "rejected",
+      "notes": "Shouted immediately before Cockroach Cluster."
+    },
+    {
+      "password": "Cockroach Cluster",
+      "usEditionVariant": "Cockroach Cluster",
+      "book": "Harry Potter and the Goblet of Fire",
+      "chapter": "Ch. 29 / Ch. 30",
+      "spokenBy": "Harry Potter",
+      "status": "accepted",
+      "notes": "Works to Harry's surprise; gargoyle springs aside and exposes the moving spiral staircase."
+    }
+  ],
+  "nonCanonPitfallsNoted": [
+    {
+      "pitfall": "Film golden/stone griffin entrance statue vs Book ugly stone gargoyle",
+      "explanation": "The films replace the corridor guardian with a grand golden/stone griffin staircase that rotates upward. In Book 2 Ch. 11 and Book 4 Ch. 28-30, the corridor entrance is explicitly 'a large and extremely ugly stone gargoyle' that hops aside while the wall behind it splits in two. The griffin only appears in the books as the brass knocker on the gleaming oak door at the top of the moving spiral staircase."
+    },
+    {
+      "pitfall": "Film two-story mezzanine balcony & hanging brass planetary orrery",
+      "explanation": "The movies depict an upper balcony/mezzanine with wraparound stairs and a huge suspended planetary brass orrery. Books 1-4 (and 5-7) describe only a single-level 'large and beautiful circular room' with silver instruments standing on spindle-legged tables—never a second floor inside the office or a hanging orrery."
+    },
+    {
+      "pitfall": "Film double-door glass-fronted apothecary 'Memory Cabinet' with hundreds of vials vs Book black cabinet",
+      "explanation": "In the GoF film and Studio Tour sets, the Pensieve sits inside an ornate glass-fronted memory cabinet packed with glowing glass vials, and its doors swing open magically by themselves. In GoF Ch. 30, it is an opaque 'black cabinet' whose door was simply left slightly ajar by Dumbledore in his haste when Fudge arrived, letting out only a thin sliver of silvery light."
+    },
+    {
+      "pitfall": "Pottermore 'ancient Saxon runes' on Pensieve vs GoF Ch. 30 novel text",
+      "explanation": "Pottermore/Wizarding World later essays describe the Hogwarts Pensieve as carved with 'Saxon runes'. GoF Ch. 30 strictly says 'odd carvings around the edge: runes and symbols that Harry did not recognize.'"
+    },
+    {
+      "pitfall": "Wrong-room conflations in Books 1-3 (Hospital Wing, McGonagall's office, Flitwick's office, Film Lupin classroom)",
+      "explanation": "Book 1 has NO visit to Dumbledore's office (Ch. 17 is the Hospital Wing). Book 2 Ch. 18 ('Dobby's Reward') takes place in Professor McGonagall's office, NOT Dumbledore's office. Book 3 (PoA) has NO office visit—the rescue of Sirius uses Professor Flitwick's seventh-floor office, while the PoA movie merely reused part of the Dumbledore's office film set for Lupin's classroom."
+    },
+    {
+      "pitfall": "GoF Ch. 28 second-floor gargoyle continuity shift vs later seventh floor (and film 'third floor')",
+      "explanation": "GoF Ch. 28 explicitly puts the gargoyle on the second floor ('up the marble staircase towards the second floor'), whereas later books (e.g. HBP Ch. 10) place it on the seventh floor, and Studio Tour/secondary wiki summaries often erroneously claim third floor."
+    },
+    {
+      "pitfall": "Singular gleaming oak door vs wiki error 'oaken double door'",
+      "explanation": "Some fan wikis write 'an oaken double door', whereas CoS Ch. 11/12 verbatim text reads 'a gleaming oak door ahead, with a brass knocker in the shape of a griffin' (singular)."
+    },
+    {
+      "pitfall": "Omission of fireplace, bookshelves, and exterior window views in Books 1-4",
+      "explanation": "While Books 5-7 explicitly describe a Floo-connected fireplace, bookshelves, and windows overlooking the grounds/mountains/east horizon, Books 1-4's office scenes focus on the circular walls covered with portraits, spindle-legged tables, claw-footed desk, shelf behind the desk, glass sword case, black cabinet, armchairs, and Fawkes's golden perch behind the door; do not invent Book 5-7 fireplace/window/bookshelf quotes for Books 1-4."
+    },
+    {
+      "pitfall": "Edition text differences ('Sherbet lemon' vs 'Lemon drop', 'tainted' vs 'tattered')",
+      "explanation": "UK Bloomsbury vs US Scholastic editions localize 'Sherbet lemon!' -> 'Lemon drop!', 'round' -> 'around', 'upwards' -> 'upward', and 'smouldering' -> 'smoldering'. Additionally, CoS Ch. 12 transcriptions/editions vary between 'a shabby, tainted wizard's hat' and 'a shabby, tattered wizard's hat'."
+    }
+  ]
+}

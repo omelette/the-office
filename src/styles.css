@@ -1,0 +1,364 @@
+:root {
+  /* Palette: Dark Stone, Aged Parchment, Burnished Brass, Phoenix Crimson */
+  --stone-950: #0c0b0a;
+  --stone-900: #151311;
+  --stone-850: #1d1a16;
+  --stone-800: #26221d;
+  --stone-700: #38322a;
+  --stone-500: #6b6154;
+
+  --parchment-50: #faf4e6;
+  --parchment-100: #f2e7cc;
+  --parchment-200: #e3d2ab;
+  --parchment-300: #cbb484;
+  --parchment-400: #a89062;
+
+  --brass-300: #ebd087;
+  --brass-400: #d4af5a;
+  --brass-500: #b28b39;
+  --brass-600: #7f6022;
+
+  --crimson-400: #c44337;
+  --crimson-500: #992a20;
+  --silver-glow: #d7e9ff;
+
+  /* Surfaces & Borders */
+  --glass-bg: rgba(19, 17, 15, 0.74);
+  --glass-bg-elevated: rgba(24, 21, 18, 0.86);
+  --glass-border: rgba(212, 175, 90, 0.28);
+  --glass-border-strong: rgba(212, 175, 90, 0.55);
+  --shadow-soft: 0 12px 32px rgba(0, 0, 0, 0.52);
+  --shadow-glow: 0 0 22px rgba(212, 175, 90, 0.14);
+
+  /* Typography */
+  --font-display: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+  --font-body: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+  --font-mono: 'Cascadia Code', 'Fira Code', Consolas, monospace;
+
+  --text-xs: clamp(0.7rem, 0.68rem + 0.14vw, 0.78rem);
+  --text-sm: clamp(0.8rem, 0.77rem + 0.18vw, 0.9rem);
+  --text-base: clamp(0.9rem, 0.86rem + 0.2vw, 1rem);
+  --text-lg: clamp(1.05rem, 0.98rem + 0.35vw, 1.25rem);
+  --text-xl: clamp(1.25rem, 1.12rem + 0.65vw, 1.65rem);
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-pill: 999px;
+
+  --transition-fast: 160ms cubic-bezier(0.22, 1, 0.36, 1);
+  --transition-med: 260ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--stone-950);
+  color: var(--parchment-100);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: 1.48;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+}
+
+#app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Full-Viewport WebGL Canvas */
+#scene-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  outline: none;
+  touch-action: none;
+  cursor: grab;
+}
+
+#scene-canvas.is-dragging {
+  cursor: grabbing;
+}
+
+#scene-canvas.is-hovering,
+body[data-hover-canon] #scene-canvas {
+  cursor: pointer;
+}
+
+#scene-canvas[data-mode='first-person'] {
+  cursor: crosshair;
+}
+
+#scene-canvas[data-mode='first-person'].is-hovering,
+body[data-hover-canon] #scene-canvas[data-mode='first-person'] {
+  cursor: pointer;
+}
+
+/* Non-blocking Overlay Root Shells */
+.overlay-root {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+#hud-root {
+  z-index: 10;
+  padding: clamp(12px, 2vw, 20px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#inspector-root {
+  z-index: 20;
+  padding: clamp(12px, 2vw, 20px);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#modal-root {
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: clamp(16px, 3vw, 32px);
+}
+
+/* Interactive surfaces inside overlay roots restore pointer events */
+.overlay-root .interactive,
+.glass-panel,
+.parchment-panel,
+.hud-bar,
+.inspector-card,
+.modal-dialog {
+  pointer-events: auto;
+}
+
+/* Shared Glassmorphism & Brass Surfaces */
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-soft), var(--shadow-glow);
+  color: var(--parchment-100);
+}
+
+.parchment-panel {
+  background: linear-gradient(
+    165deg,
+    rgba(38, 32, 24, 0.92) 0%,
+    rgba(22, 18, 15, 0.92) 100%
+  );
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--glass-border-strong);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft), inset 0 1px 0 rgba(242, 231, 204, 0.08);
+  color: var(--parchment-100);
+}
+
+.serif-title {
+  font-family: var(--font-display);
+  letter-spacing: 0.04em;
+  color: var(--brass-300);
+  margin: 0;
+}
+
+.muted-label {
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--parchment-400);
+}
+
+/* Buttons & Pills */
+.brass-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45em;
+  padding: 0.45rem 0.85rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--glass-border);
+  background: rgba(34, 29, 23, 0.78);
+  color: var(--parchment-100);
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  cursor: pointer;
+  transition:
+    background var(--transition-fast),
+    border-color var(--transition-fast),
+    color var(--transition-fast),
+    transform var(--transition-fast);
+}
+
+.brass-btn:hover {
+  background: rgba(56, 46, 33, 0.92);
+  border-color: var(--brass-400);
+  color: var(--parchment-50);
+}
+
+.brass-btn:active {
+  transform: translateY(1px);
+}
+
+.brass-btn.is-active,
+.brass-btn[aria-pressed='true'] {
+  background: linear-gradient(135deg, rgba(178, 139, 57, 0.34), rgba(127, 96, 34, 0.42));
+  border-color: var(--brass-300);
+  color: var(--brass-300);
+  box-shadow: 0 0 14px rgba(212, 175, 90, 0.2);
+}
+
+.brass-btn:focus-visible {
+  outline: 2px solid var(--brass-300);
+  outline-offset: 2px;
+}
+
+/* HUD Header & Footer Layout Helpers */
+.hud-top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.hud-brand {
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.hud-brand h1 {
+  font-size: var(--text-lg);
+  font-weight: 600;
+}
+
+.hud-brand p {
+  margin: 0;
+  font-size: var(--text-xs);
+  color: var(--parchment-300);
+}
+
+.hud-controls-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+}
+
+.hud-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+/* Hover Tooltip Badge */
+.hover-pill {
+  padding: 6px 12px;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-xs);
+  color: var(--parchment-100);
+  border: 1px solid var(--glass-border-strong);
+  background: var(--glass-bg-elevated);
+  pointer-events: none;
+  box-shadow: var(--shadow-soft);
+}
+
+/* Inspector Drawer */
+.inspector-card {
+  width: min(380px, calc(100vw - 24px));
+  max-height: calc(100vh - 140px);
+  overflow-y: auto;
+  padding: 18px 20px;
+  user-select: text;
+}
+
+.inspector-card blockquote {
+  margin: 10px 0;
+  padding: 10px 14px;
+  border-left: 2px solid var(--brass-400);
+  background: rgba(12, 11, 10, 0.45);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--parchment-200);
+  font-size: var(--text-sm);
+}
+
+/* Modal Backdrop & Dialog */
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(8, 7, 6, 0.72);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  pointer-events: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.modal-dialog {
+  width: min(640px, 100%);
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 22px 24px;
+  user-select: text;
+}
+
+/* Subtle Custom Scrollbars for Inspector & Modals */
+.inspector-card::-webkit-scrollbar,
+.modal-dialog::-webkit-scrollbar {
+  width: 6px;
+}
+
+.inspector-card::-webkit-scrollbar-track,
+.modal-dialog::-webkit-scrollbar-track {
+  background: rgba(12, 11, 10, 0.35);
+}
+
+.inspector-card::-webkit-scrollbar-thumb,
+.modal-dialog::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 90, 0.35);
+  border-radius: var(--radius-pill);
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 768px) {
+  #inspector-root {
+    align-items: flex-end;
+    justify-content: center;
+  }
+
+  .inspector-card {
+    width: 100%;
+    max-height: 46vh;
+  }
+}

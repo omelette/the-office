@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "scope": "Harry Potter Books 5–7 (Order of the Phoenix, Half-Blood Prince, Deathly Hallows)",
+    "canonPolicy": "Original UK/US novels only. Rejects all film set details, Pottermore/Wizarding World articles, games, Cursed Child, and fan speculation. Only word-for-word verified snippets from search_web results appear in verbatimQuote fields; verified novel descriptions without full verbatim copy appear in verifiedCanonSummary.",
+    "researcher": "canon-late"
+  },
+  "excerpts": [
+    {
+      "id": "oop-ch22-night-arrival-instrument",
+      "topic": "Nighttime office state, dressing gown, Fawkes warning, delicate silver instrument ('In essence divided?')",
+      "book": "Harry Potter and the Order of the Phoenix",
+      "chapter": "Chapter 22: St. Mungo's Hospital for Magical Maladies and Injuries",
+      "editionNote": "UK/US novel text consistent on core details; password spoken as 'Fizzing Whizzbee'.",
+      "verbatimQuote": "Naturally, naturally... But in essence divided?",
+      "verifiedCanonSummary": "McGonagall escorts Harry and Ron to Dumbledore's office in the middle of the night using the password 'Fizzing Whizzbee' at the stone gargoyle. Dumbledore sits behind his desk in the half-darkness wearing a 'magnificently embroidered purple-and-gold dressing gown' over his nightshirt, stroking Fawkes's plumed golden head. Saying 'We will need... a warning', he sends Fawkes off in a flash of fire. Dumbledore then fetches one of the fragile, whirring silver instruments from a spindle-legged table, sets it on his desk, and taps it with his wand: rhythmic clinking sounds follow, pale green smoke billows from a tiny tube forming a serpent's head, and when Dumbledore murmurs 'Naturally, naturally... But in essence divided?', the smoke snake splits into two.",
+      "visualFacts": [
+        "Office lit in half-darkness at night",
+        "Dumbledore behind desk in magnificently embroidered purple-and-gold dressing gown",
+        "Fawkes perched nearby with plumed golden head",
+        "Delicate silver instrument moved from a spindle-legged table onto the desk",
+        "Pale green smoke billowing from a tiny tube on the instrument, forming a serpent's head that splits into two snakes"
+      ],
+      "spatialClues": [
+        "Stone gargoyle guards the corridor entrance outside",
+        "Dumbledore sits behind the desk facing Harry and Ron",
+        "Spindle-legged tables positioned around the circular room hold the silver instruments"
+      ],
+      "animationOrSoundClues": [
+        "Fawkes vanishes in a flash of fire",
+        "Tapping the silver instrument produces rhythmic clinking noises and pale green smoke splitting into two serpents"
+      ]
+    },
+    {
+      "id": "oop-ch22-portrait-network",
+      "topic": "Headmaster and Headmistress portrait network (Everard, Dilys Derwent, Phineas Nigellus Black, Dexter Fortescue)",
+      "book": "Harry Potter and the Order of the Phoenix",
+      "chapter": "Chapter 22: St. Mungo's Hospital for Magical Maladies and Injuries",
+      "editionNote": "Verified across novel summaries and portrait descriptions.",
+      "verbatimQuote": null,
+      "verifiedCanonSummary": "Dumbledore wakes the sleeping portraits of former headmasters and headmistresses hanging on the office walls to locate Arthur Weasley and alert Grimmauld Place. Everard (a sallow-faced wizard with a short black fringe/bangs) travels to his secondary portrait at the Ministry of Magic and reports Arthur Weasley injured on the floor of the Department of Mysteries. Dilys Derwent (an elderly witch with long silver ringlets) travels to her secondary portrait in the main admitting area of St. Mungo's Hospital and confirms Arthur has been brought in alive. Phineas Nigellus Black (a clever-looking wizard with black hair, pointed beard, and Slytherin green-and-silver attire) reluctantly travels to his secondary portrait at Number Twelve, Grimmauld Place, after being scolded by Dexter Fortescue (a corpulent, red-nosed wizard holding an ear trumpet) and Armando Dippet about duty to the sitting Headmaster.",
+      "visualFacts": [
+        "Portraits of former headmasters and headmistresses cover the circular office walls and appear asleep when inactive",
+        "Everard: sallow-faced wizard with short black fringe",
+        "Dilys Derwent: elderly witch with long silver ringlets",
+        "Phineas Nigellus Black: clever-looking, black hair, pointed beard, green and silver Slytherin attire",
+        "Dexter Fortescue: corpulent, red-nosed wizard with an ear trumpet"
+      ],
+      "spatialClues": [
+        "Portraits hang around the walls of the circular office and can step out of their frames to visit linked canvases outside Hogwarts"
+      ],
+      "animationOrSoundClues": [
+        "Portraits wake from snoozing, converse with each other and the Headmaster, step out of empty frames, and re-enter to deliver reports"
+      ]
+    },
+    {
+      "id": "oop-ch27-28-escape-and-seal",
+      "topic": "Dumbledore's escape with Fawkes, smashed office furnishings, and office sealing against Umbridge",
+      "book": "Harry Potter and the Order of the Phoenix",
+      "chapter": "Chapter 27: The Centaur and the Sneak & Chapter 28: Snape's Worst Memory",
+      "editionNote": "Verified dialogue fragments from Phineas Nigellus and portrait/office rule.",
+      "verbatimQuote": "you cannot deny he's got style",
+      "verifiedCanonSummary": "During the confrontation with Cornelius Fudge, Dolores Umbridge, Percy Weasley, Dawlish, and Kingsley Shacklebolt in Dumbledore's office, a streak of silver light and a gunshot-like bang leave the Ministry officials unconscious on the floor, Dumbledore's desk overturned, and the spindly tables and delicate silver instruments smashed to pieces. Dumbledore summons Fawkes, grasps his long golden tail, and vanishes in a flash of fire; Phineas Nigellus remarks 'you cannot deny he's got style.' Afterward (Ch. 28–29), the office magically seals itself against Dolores Umbridge—the stone gargoyle and doorway refuse to admit her because the 'room is barred to all but the rightful headmaster.'",
+      "visualFacts": [
+        "Desk overturned during magical blast",
+        "Spindly tables and silver instruments shattered on the floor",
+        "Bright flash of silver light and Fawkes's fire flash"
+      ],
+      "spatialClues": [
+        "Office is magically bound to the rightful Headmaster; the gargoyle entrance locks out Umbridge"
+      ],
+      "animationOrSoundClues": [
+        "Gunshot-like bang, flash of fire as Dumbledore grabs Fawkes's tail and vanishes",
+        "Stone gargoyle refuses to step aside for illegitimate authority"
+      ]
+    },
+    {
+      "id": "oop-ch37-window-dawn-and-floo",
+      "topic": "Dawn view from office window and Dumbledore's emerald-green Floo arrival",
+      "book": "Harry Potter and the Order of the Phoenix",
+      "chapter": "Chapter 37: The Lost Prophecy",
+      "editionNote": "Verbatim window line verified; Floo arrival line verified.",
+      "verbatimQuote": "Harry looked through the window. There was a cool line of pale green along the horizon: dawn was approaching.",
+      "verifiedCanonSummary": "Portkeyed back into Dumbledore's office after Sirius Black's death, Harry finds himself locked inside while the portraits (mostly snoozing until Phineas Nigellus speaks) watch him. Looking through the window, Harry sees a cool line of pale green along the horizon as dawn approaches. Shortly after, 'The empty fireplace burst into emerald-green flame... As Dumbledore's tall form unfolded itself from the fire...'",
+      "visualFacts": [
+        "Window overlooks the horizon where dawn casts a cool pale green line across the sky",
+        "Empty fireplace suddenly erupts in emerald-green Floo flames"
+      ],
+      "spatialClues": [
+        "Office has a large window overlooking the exterior horizon/grounds and a stone fireplace connected to the Floo Network",
+        "Exit doors remain locked until Dumbledore returns and speaks with Harry"
+      ],
+      "animationOrSoundClues": [
+        "Empty grate bursts into emerald-green flame as Dumbledore steps out"
+      ]
+    },
+    {
+      "id": "oop-ch37-destruction-rampage",
+      "topic": "Harry's grief rampage: silver instruments, lunascope thrown into fire, spindle-legged table broken, portraits reacting",
+      "book": "Harry Potter and the Order of the Phoenix",
+      "chapter": "Chapter 37: The Lost Prophecy",
+      "editionNote": "Exact verbatim quotes for Harry's outburst, Armando Dippet, Phineas Nigellus, and Dumbledore.",
+      "verbatimQuote": "“I DON’T CARE!” Harry yelled at them, snatching up a lunascope and throwing it into the fire. “I DON’T CARE WHAT I MEAN!”",
+      "verifiedCanonSummary": "When Phineas Nigellus asks 'Am I to understand... that my great-great-grandson—the last of the Blacks—is dead?', Dumbledore confirms it and Phineas marches out of his frame to check Grimmauld Place. As Dumbledore speaks calmly ('You do care... You care so much you feel as though you will bleed to death with the pain of it'), Harry roars 'THEN—I—DON’T—WANT—TO—BE—HUMAN!' and smashes Dumbledore's office possessions: he hurls a frail silver instrument from a spindle-legged table across the room so it shatters against the wall, throws a second silver instrument so it smashes against an old headmaster's portrait, snatches up a lunascope and throws it into the burning fireplace as Armando Dippet exclaims 'Really!' and other portraits shout in outrage, and throws a spindle-legged table to the floor where its legs break off. Afterward, Harry sits in a chair in front of the desk while Dumbledore explains the prophecy.",
+      "visualFacts": [
+        "Delicate silver instruments smashed on the wall and against a portrait",
+        "Lunascope thrown directly into the fire burning in the fireplace",
+        "Spindle-legged table overturned and broken on the floor",
+        "Note: Novel explicitly names a 'lunascope' (NOT a 'lunar chart'); novel does NOT depict Harry tearing cushions or a chintz armchair in this scene"
+      ],
+      "spatialClues": [
+        "Fireplace has an active burning fire by this point in the scene",
+        "Spindle-legged tables sit around the perimeter near portraits and wall surfaces",
+        "Chairs stand opposite Dumbledore's desk"
+      ],
+      "animationOrSoundClues": [
+        "Shattering silver and glass/metal impacts, crackling fire consuming lunascope, wood snapping as table breaks",
+        "Portraits shouting in shock (Armando Dippet: 'Really!'); Phineas Nigellus vacating his frame"
+      ]
+    },
+    {
+      "id": "hbp-ch10-restored-office-pensieve-ring",
+      "topic": "Office restored in Half-Blood Prince; Pensieve on desk, crystal phials, Marvolo Gaunt's ring",
+      "book": "Harry Potter and the Half-Blood Prince",
+      "chapter": "Chapter 10: The House of Gaunt (plus Ch. 9 password note)",
+      "editionNote": "Opening sentence of Ch. 10 office entry verified verbatim; ring description from Ch. 4 verified verbatim.",
+      "verbatimQuote": "The circular office looked just as it always did; the delicate silver instruments stood on spindle-legged tables, puffing smoke and whirring...",
+      "verifiedCanonSummary": "Dumbledore sends Harry a note with 'P.S. I enjoy Acid Pops.' When Harry enters for his first private lesson, all damage from Book 5 has been completely restored: delicate silver instruments stand on spindle-legged tables, puffing smoke and whirring. The stone Pensieve is set out for the lesson (with small glass/crystal phials containing silvery memories such as Bob Ogden's memory). Harry notices Marvolo Gaunt's heavy gold ring ('...set with a heavy black stone that had cracked down the middle') resting on one of the spindle-legged tables/desk surfaces alongside Dumbledore's blackened, withered hand.",
+      "visualFacts": [
+        "Circular room fully restored: silver instruments intact on spindle-legged tables",
+        "Stone Pensieve placed out for lessons",
+        "Small crystal/glass phials holding swirling silvery memories",
+        "Cracked black-stoned gold ring (Marvolo Gaunt's ring) resting visibly in the office"
+      ],
+      "spatialClues": [
+        "Harry takes his usual seat facing Dumbledore's desk",
+        "Spindle-legged tables hold both silver instruments and Gaunt's ring"
+      ],
+      "animationOrSoundClues": [
+        "Silver instruments whirring and emitting little puffs of smoke",
+        "Silvery memories swirling inside crystal phials and the Pensieve basin"
+      ]
+    },
+    {
+      "id": "hbp-ch17-20-23-25-lessons",
+      "topic": "Continuing Pensieve lessons, tiny crystal bottles, and 'Toffee Eclairs' password",
+      "book": "Harry Potter and the Half-Blood Prince",
+      "chapter": "Chapters 17 (A Sluggish Memory), 20 (Lord Voldemort's Request), 23 (Horcruxes), 25 (The Seer Overheard)",
+      "editionNote": "Novel chapters confirmed; excludes film-only huge apothecary cabinet and desk-drawer Horcrux scene.",
+      "verbatimQuote": null,
+      "verifiedCanonSummary": "Across HBP private lessons, Harry returns to sit in front of Dumbledore's desk where the Pensieve awaits beside small crystal phials/bottles of memory: in Ch. 17, Dumbledore shows Morfin Gaunt's memory and Horace Slughorn's sluggish, congealed altered memory; in Ch. 20, Harry uses the password 'Toffee Eclairs' at the stone gargoyle late at night and finds the Pensieve waiting beside two tiny crystal bottles (Hepzibah Smith and young Voldemort's job interview); in Ch. 23, Harry rushes to the office with Slughorn's authentic memory in a tiny glass phial to pour into the Pensieve; in Ch. 25, after meeting Trelawney outside and realizing Snape overheard the prophecy, Harry storms into Dumbledore's office to confront him.",
+      "visualFacts": [
+        "Pensieve positioned on the desk for lessons",
+        "Only a small number (one or two at a time) of tiny crystal/glass phials/bottles sit beside the Pensieve—NOT hundreds of shelves of phials as in the film",
+        "Slughorn's tampered memory looks thick, foggy, and congealed compared to normal bright silvery memories"
+      ],
+      "spatialClues": [
+        "Stone gargoyle outside requires 'Toffee Eclairs' (Ch. 20)",
+        "Harry sits in front of Dumbledore's desk during lessons"
+      ],
+      "animationOrSoundClues": [
+        "Swirling silvery mist poured from crystal phials into the carved stone basin"
+      ]
+    },
+    {
+      "id": "hbp-ch29-dumbledore-portrait-and-window",
+      "topic": "Dumbledore's sleeping portrait in a golden frame; McGonagall watching grounds through window; Fawkes's lament",
+      "book": "Harry Potter and the Half-Blood Prince",
+      "chapter": "Chapter 29: The Phoenix Lament",
+      "editionNote": "Fawkes lament phrase verified verbatim; portrait details verified from novel text summaries.",
+      "verbatimQuote": "across the grounds and through the castle windows",
+      "verifiedCanonSummary": "Following Dumbledore's murder, Professor McGonagall occupies the Headmaster's office and interviews Harry alongside the Heads of House (Slughorn, Sprout, Flitwick) and Hagrid. A new portrait of Albus Dumbledore has already appeared on the wall—hanging in a golden frame behind/over the desk, where Dumbledore appears peacefully asleep/slumbering with his half-moon spectacles perched on his crooked nose. McGonagall looks out the office windows over the grounds to watch for Minister Rufus Scrimgeour, and a former headmaster's portrait interrupts to report Scrimgeour's arrival on the grounds. Meanwhile, Fawkes's mournful lament floats 'across the grounds and through the castle windows' before Fawkes leaves Hogwarts forever.",
+      "visualFacts": [
+        "New portrait of Albus Dumbledore in a golden frame hanging behind/over the headmaster's desk",
+        "Dumbledore painted sleeping peacefully with half-moon spectacles on his crooked nose",
+        "Dark exterior grounds visible through the office windows"
+      ],
+      "spatialClues": [
+        "Dumbledore's portrait sits centrally behind/over the headmaster's chair and desk",
+        "Windows overlook the castle grounds below"
+      ],
+      "animationOrSoundClues": [
+        "Dumbledore's portrait remains slumbering/unresponsive",
+        "Other headmaster portraits travel between castle frames to report Scrimgeour's arrival",
+        "Haunting song of Fawkes's lament drifting in from outside across the grounds"
+      ]
+    },
+    {
+      "id": "dh-ch6-and-15-books-and-sword",
+      "topic": "Horcrux books summoned out office window; Phineas Nigellus reveals fake vs real Sword of Gryffindor in glass case",
+      "book": "Harry Potter and the Deathly Hallows",
+      "chapter": "Chapter 6: The Ghoul in Pyjamas & Chapter 15: The Goblin's Revenge",
+      "editionNote": "Confirmed novel details establishing Horcrux books inside Dumbledore's office and fake sword in glass case.",
+      "verbatimQuote": null,
+      "verifiedCanonSummary": "In DH Ch. 6, Hermione explains that right after Dumbledore's funeral she cast 'Accio' for the books on Horcruxes from the girls' dormitory, and the books zoomed straight out of Dumbledore's open office window—confirming Dumbledore kept removed library books on Horcruxes inside his office. In DH Ch. 15, after learning Ginny, Neville, and Luna broke into Snape's (the Headmaster's) office to steal the Sword of Gryffindor, Hermione pulls Phineas Nigellus's Grimmauld Place portrait from her beaded bag, blindfolds him with Obscuro, and learns that the sword sent to Gringotts was a fake replica—the last time Phineas saw the real sword leave its glass case was when Dumbledore used it to smash Marvolo Gaunt's ring.",
+      "visualFacts": [
+        "Horcrux books kept inside Dumbledore's office in HBP until summoned through the open window",
+        "Glass case on the office wall holds a counterfeit Sword of Gryffindor during Snape's tenure"
+      ],
+      "spatialClues": [
+        "Office windows can be opened (allowing books and Patronuses to pass through)",
+        "Phineas Nigellus can move between his main portrait on the Headmaster's office wall and his Grimmauld Place portrait"
+      ],
+      "animationOrSoundClues": [
+        "Books flying out the open window under a Summoning Charm"
+      ]
+    },
+    {
+      "id": "dh-ch30-note-sacking-of-snape",
+      "topic": "Ch. 30 context check: Snape abandons post outside the office",
+      "book": "Harry Potter and the Deathly Hallows",
+      "chapter": "Chapter 30: The Sacking of Severus Snape",
+      "editionNote": "Explicit verification that Ch. 30 does not take place inside the Headmaster's office.",
+      "verbatimQuote": null,
+      "verifiedCanonSummary": "In DH Ch. 30, Harry, Luna, and McGonagall confront the Carrows in Ravenclaw Tower, and McGonagall, Flitwick, Sprout, and Slughorn duel Severus Snape in the corridor outside. Snape shields himself, blasts through a corridor/classroom window, and flies away, abandoning his post as Headmaster and leaving the Headmaster's office vacant until Harry returns in Ch. 33.",
+      "visualFacts": [
+        "Office itself is unoccupied during Ch. 30; Snape flees from a school corridor window, not the Headmaster's office"
+      ],
+      "spatialClues": [
+        "Headmaster's office becomes unoccupied after Snape flees Hogwarts"
+      ],
+      "animationOrSoundClues": []
+    },
+    {
+      "id": "dh-ch33-princes-tale-office-and-memories",
+      "topic": "Password 'Dumbledore', Pensieve in black cabinet, empty portraits, silver doe, and hidden cavity behind Dumbledore's portrait",
+      "book": "Harry Potter and the Deathly Hallows",
+      "chapter": "Chapter 33: The Prince's Tale",
+      "editionNote": "Pensieve/cabinet sentence verified verbatim from harrypotter.com excerpt; 'Always' dialogue verified verbatim.",
+      "verbatimQuote": "The stone Pensieve lay in the cabinet where it had always been: Harry heaved it on to the desk and poured Snape's memories into the wide basin with its runic markings around the edge.",
+      "verifiedCanonSummary": "Carrying Snape's dying memories in a flask, Harry approaches the stone gargoyle and blurts out 'Dumbledore!'—Snape's secret password—and the gargoyle moves aside. Inside the office, most headmaster portraits are empty (having gone elsewhere in the castle). Harry takes the stone Pensieve from the cabinet where it had always been, heaves it onto the desk, pours Snape's silvery memories in, and dives in. Snape's memories show three scenes in the office: (1) Marvolo Gaunt's cracked black-stoned ring and the Sword of Gryffindor lying on Dumbledore's desk while Snape traps the ring's curse in Dumbledore's blackened hand; (2) Snape conjuring his Patronus—a silver doe that lands on the office floor, bounds across the room, and leaps out the office window ('After all this time?' / 'Always.'); (3) Dumbledore's portrait instructing Snape to deliver the real sword under conditions of 'need and valor', whereupon Snape pulls the side of Dumbledore's portrait forward on a hinge to reveal a hidden cavity in the wall containing the real Sword of Gryffindor (while the fake sits in the glass case).",
+      "visualFacts": [
+        "Black cabinet holds the heavy stone Pensieve with runic markings around the rim",
+        "Frames of former headmasters mostly empty during the battle",
+        "In Snape's memory: cracked black-stoned ring and Sword of Gryffindor on the desk",
+        "In Snape's memory: silver doe Patronus bounding across the office floor and out the window",
+        "Hidden wall cavity concealed directly behind Dumbledore's hinged portrait holding the real Sword of Gryffindor"
+      ],
+      "spatialClues": [
+        "Cabinet holding the Pensieve is separate from the desk; Harry heaves the heavy stone basin onto the desk",
+        "Dumbledore's portrait behind/over the desk swings forward on a hinge to expose a recessed cavity in the stone wall behind the canvas"
+      ],
+      "animationOrSoundClues": [
+        "Gargoyle shifts aside at the password 'Dumbledore'",
+        "Silver doe Patronus bounds across floor and exits open window",
+        "Portrait swings outward to reveal hidden wall cavity"
+      ]
+    },
+    {
+      "id": "dh-ch36-post-battle-finale",
+      "topic": "Knocked-aside gargoyle, cheering portraits, Dumbledore's portrait weeping, Elder Wand & holly wand 'Reparo' on desk",
+      "book": "Harry Potter and the Deathly Hallows",
+      "chapter": "Chapter 36: The Flaw in the Plan",
+      "editionNote": "All dialogue quotes verified verbatim via Goodreads and StackExchange citations.",
+      "verbatimQuote": "Harry had eyes only for the man who stood in the largest portrait directly behind the headmaster’s chair.",
+      "verifiedCanonSummary": "After defeating Voldemort, Harry, Ron, and Hermione climb to the Headmaster's office. Outside, the stone gargoyle has been knocked aside and stands lopsided and punch-drunk ('“Can we go up?” he asked the gargoyle. “Feel free,” groaned the statue.'). Inside, all the painted headmasters and headmistresses give a tumultuous standing ovation, cheering and applauding. Phineas Nigellus calls out in his high, reedy voice: '“And let it be noted that Slytherin House played its part! Let our contribution not be forgotten!”' Harry quiets the room and speaks directly to Dumbledore's portrait—the largest portrait directly behind the headmaster's chair—where tears slide down Dumbledore's face behind his half-moon spectacles. Harry confirms he dropped the Resurrection Stone in the forest, is keeping Ignotus's Invisibility Cloak, and refuses the Elder Wand ('“And then there's this.” ... “I don't want it... I know it's powerful,... But I was happier with mine. So…”'). Touching his snapped holly-and-phoenix-feather wand with the Elder Wand and saying 'Reparo', Harry mends his original wand and plans to return the Elder Wand to Dumbledore's tomb.",
+      "visualFacts": [
+        "Stone gargoyle knocked aside/lopsided outside the staircase",
+        "Largest portrait directly behind the headmaster's chair depicts Albus Dumbledore, weeping with pride",
+        "All past headmaster/headmistress portraits packed into their frames cheering and clapping",
+        "Harry holds the Elder Wand and mends his snapped holly wand in the office"
+      ],
+      "spatialClues": [
+        "Staircase entrance stands accessible past the lopsided gargoyle without needing a password",
+        "Dumbledore's portrait is explicitly the largest portrait and hangs directly behind the headmaster's chair"
+      ],
+      "animationOrSoundClues": [
+        "Punch-drunk gargoyle groans 'Feel free'",
+        "Loud applause and cheering from all wall portraits",
+        "Tears sliding down Dumbledore's painted face",
+        "Warm flash/reunion as 'Reparo' mends the holly wand"
+      ]
+    },
+    {
+      "id": "canon-architecture-check-5to7",
+      "topic": "Explicit architectural audit across Books 5–7 (windows, fireplace, books, floor/ceiling, absence of upper balcony/mezzanine)",
+      "book": "Order of the Phoenix, Half-Blood Prince, Deathly Hallows (verified across all 7 books)",
+      "chapter": "Cross-book architectural audit",
+      "editionNote": "Explicit verification distinguishing novel facts from film adaptations.",
+      "verbatimQuote": null,
+      "verifiedCanonSummary": "1) Single-level circular room: The novels describe a large, beautiful circular tower chamber reached by a moving spiral staircase behind the seventh-floor stone gargoyle. NO upper balcony, mezzanine, wraparound upper gallery, or interior second-story staircase exists anywhere in Books 1–7. 2) Fireplace: Present and functional on the Floo Network (emerald-green flames in OoP Ch. 37; burning fire consuming the lunascope in OoP Ch. 37). 3) Windows & views: Windows look over the castle grounds and horizon (pale green dawn horizon in OoP Ch. 37; grounds below in HBP Ch. 29; openable windows allowing Horcrux books in DH Ch. 6 and Snape's Patronus in DH Ch. 33 to pass through; earlier books also note mountains and Quidditch pitch, with curtains unused in Dumbledore's day). 4) Books & shelves: Horcrux books are stored inside Dumbledore's office in HBP/DH (summoned by Hermione in DH Ch. 6), and the Sorting Hat rests on a shelf behind the desk alongside the black Pensieve cabinet; however, floor-to-ceiling multi-story library shelves are film-only. 5) Floor & ceiling: The office has a floor (crossed by Snape's Patronus, strewn with broken table legs in OoP Ch. 37) and high tower architecture, but specific ornate circular rugs/carpets or a hanging planetary brass orrery on the ceiling are NOT described in Dumbledore's office in Books 5–7 (McGonagall's office has a carpet mentioned in HBP).",
+      "visualFacts": [
+        "Single-story circular tower room with stone walls",
+        "Stone fireplace connected to Floo Network",
+        "Windows overlooking grounds, horizon/sky, and exterior castle airspace (openable)",
+        "Shelf behind desk (Sorting Hat), black cabinet (Pensieve), glass case (Sword of Gryffindor), and storage holding Horcrux books",
+        "NO upper balcony, mezzanine, second floor, or hanging brass planetary orrery"
+      ],
+      "spatialClues": [
+        "All activity takes place on one circular floor level",
+        "Desk faces visitor chairs; Dumbledore's portrait hangs behind the headmaster's chair/desk with hidden wall cavity behind it"
+      ],
+      "animationOrSoundClues": [
+        "Whirring and puffing silver instruments on spindle-legged tables",
+        "Crackling hearth / emerald Floo flames",
+        "Day/night/dawn sky shifts through tall windows"
+      ]
+    }
+  ],
+  "namedPortraits": [
+    {
+      "id": "portrait-albus-dumbledore",
+      "name": "Albus Dumbledore",
+      "appearance": "Elderly wizard with long silver beard, crooked nose, half-moon spectacles; depicted sleeping peacefully in HBP Ch. 29 and weeping/beaming in DH Ch. 36.",
+      "frameAndPlacement": "Largest portrait in the office, in a golden frame hung directly behind/over the headmaster's chair and desk. Hinged on its side to conceal a hidden wall cavity holding the real Sword of Gryffindor.",
+      "firstAppearsInOffice": "Half-Blood Prince, Chapter 29 ('The Phoenix Lament')",
+      "linkedLocations": [],
+      "books5to7Behavior": [
+        "HBP Ch. 29: Newly appeared in golden frame behind desk, peacefully slumbering with half-moon spectacles on his crooked nose.",
+        "DH Ch. 33: Awake in secret memories—instructs Snape on delivering the real Sword of Gryffindor from the hidden cavity behind his frame under conditions of 'need and valor'.",
+        "DH Ch. 36: Tears slide down behind his half-moon spectacles; beams and counsels Harry on the Deathly Hallows (Resurrection Stone, Invisibility Cloak, Elder Wand)."
+      ]
+    },
+    {
+      "id": "portrait-phineas-nigellus-black",
+      "name": "Phineas Nigellus Black",
+      "appearance": "Clever-looking wizard with black hair, thin eyebrows, shrewd narrow dark eyes, a pointed beard, and Slytherin green-and-silver robes/attire.",
+      "frameAndPlacement": "Framed portrait on the circular wall of the Headmaster's office.",
+      "firstAppearsInOffice": "Order of the Phoenix, Chapter 22 ('St. Mungo's Hospital')",
+      "linkedLocations": [
+        "Number Twelve, Grimmauld Place (carried inside Hermione Granger's beaded bag in DH Ch. 15–33)"
+      ],
+      "books5to7Behavior": [
+        "OoP Ch. 22: Grumbles when woken, sent by Dumbledore to Grimmauld Place to warn Sirius Black.",
+        "OoP Ch. 27: Remarks 'you cannot deny he's got style' after Dumbledore escapes Fudge and Umbridge.",
+        "OoP Ch. 37: Questions Harry about Sirius's death ('Am I to understand... that my great-great-grandson—the last of the Blacks—is dead?'), then leaves frame to check Grimmauld Place.",
+        "DH Ch. 15 & 33: Interrogated blindfolded by Hermione; leaks trio's Forest of Dean location to Snape in the Headmaster's office.",
+        "DH Ch. 36: Shouts in high, reedy voice during victory applause: 'And let it be noted that Slytherin House played its part! Let our contribution not be forgotten!'"
+      ]
+    },
+    {
+      "id": "portrait-everard",
+      "name": "Everard",
+      "appearance": "Sallow-faced wizard with a short black fringe (bangs).",
+      "frameAndPlacement": "Framed portrait on the circular wall of the Headmaster's office.",
+      "firstAppearsInOffice": "Order of the Phoenix, Chapter 22 ('St. Mungo's Hospital')",
+      "linkedLocations": [
+        "Ministry of Magic"
+      ],
+      "books5to7Behavior": [
+        "OoP Ch. 22: Woken by Dumbledore to rush to his Ministry of Magic portrait, spots Arthur Weasley injured in the Department of Mysteries, raises the alarm, and reports back."
+      ]
+    },
+    {
+      "id": "portrait-dilys-derwent",
+      "name": "Dilys Derwent",
+      "appearance": "Elderly witch with long silver ringlets.",
+      "frameAndPlacement": "Framed portrait on the circular wall of the Headmaster's office.",
+      "firstAppearsInOffice": "Order of the Phoenix, Chapter 22 ('St. Mungo's Hospital')",
+      "linkedLocations": [
+        "St. Mungo's Hospital for Magical Maladies and Injuries (main admitting area)"
+      ],
+      "books5to7Behavior": [
+        "OoP Ch. 22: Travels to her St. Mungo's Hospital portrait and reports back to Dumbledore that Arthur Weasley has arrived at the hospital alive."
+      ]
+    },
+    {
+      "id": "portrait-dexter-fortescue",
+      "name": "Dexter Fortescue",
+      "appearance": "Corpulent, red-nosed wizard carrying an ear trumpet.",
+      "frameAndPlacement": "Framed portrait on the circular wall of the Headmaster's office.",
+      "firstAppearsInOffice": "Order of the Phoenix, Chapter 22 ('St. Mungo's Hospital')",
+      "linkedLocations": [],
+      "books5to7Behavior": [
+        "OoP Ch. 22: Indignantly scolds Phineas Nigellus Black about 'dereliction of duty' toward the sitting Headmaster."
+      ]
+    },
+    {
+      "id": "portrait-armando-dippet",
+      "name": "Armando Dippet",
+      "appearance": "Elderly, frail, nearly bald wizard with stray wisps of white hair (immediate predecessor to Dumbledore; seen alive in CoS Ch. 13 diary memory).",
+      "frameAndPlacement": "Framed portrait on the circular wall of the Headmaster's office.",
+      "firstAppearsInOffice": "Order of the Phoenix, Chapter 22 (as portrait in office; character introduced alive in CoS)",
+      "linkedLocations": [],
+      "books5to7Behavior": [
+        "OoP Ch. 22: Joins other heads reminding Phineas Nigellus of their duty to serve the current Headmaster.",
+        "OoP Ch. 37: Exclaims indignantly ('Really!') when Harry throws the lunascope into the fireplace and smashes instruments."
+      ]
+    },
+    {
+      "id": "portrait-note-absent-heads",
+      "name": "Note on Severus Snape & Dolores Umbridge (Absent in Books 5–7)",
+      "appearance": "N/A — neither hangs on the office walls in Books 5–7.",
+      "frameAndPlacement": "Not present on walls during DH Ch. 36 or OoP.",
+      "firstAppearsInOffice": "Absent in Books 5–7",
+      "linkedLocations": [],
+      "books5to7Behavior": [
+        "Dolores Umbridge (OoP Ch. 28): Office sealed itself against her; never entered or received a portrait.",
+        "Severus Snape (DH Ch. 30 & 36): Because he fled his post in Ch. 30, no portrait of Snape appears in the office in DH Ch. 36 (any later addition comes from post-book author interviews, outside the 7 novels)."
+      ]
+    }
+  ],
+  "passwords": [
+    {
+      "password": "Fizzing Whizzbee",
+      "variants": [
+        "Fizzing Whizzbee",
+        "Fizzing Whizzbees"
+      ],
+      "book": "Order of the Phoenix",
+      "chapter": "Chapter 22: St. Mungo's Hospital for Magical Maladies and Injuries",
+      "speaker": "Professor Minerva McGonagall",
+      "context": "Used in the middle of the night after Harry's snake-attack vision of Mr. Weasley; UK/US text quotes McGonagall speaking 'Fizzing Whizzbee' (singular) to the stone gargoyle."
+    },
+    {
+      "password": "Acid Pops",
+      "variants": [
+        "Acid Pops"
+      ],
+      "book": "Half-Blood Prince",
+      "chapter": "Chapter 9: The Half-Blood Prince / Chapter 10: The House of Gaunt",
+      "speaker": "Harry Potter (via Dumbledore's note)",
+      "context": "Provided to Harry via note ('P.S. I enjoy Acid Pops.') for his first private lesson."
+    },
+    {
+      "password": "Toffee Eclairs",
+      "variants": [
+        "Toffee Eclairs",
+        "Toffee Éclairs"
+      ],
+      "book": "Half-Blood Prince",
+      "chapter": "Chapter 20: Lord Voldemort's Request",
+      "speaker": "Harry Potter",
+      "context": "Used by Harry to get past the stone gargoyle late at night for his Pensieve lesson."
+    },
+    {
+      "password": "Dumbledore",
+      "variants": [
+        "Dumbledore"
+      ],
+      "book": "Deathly Hallows",
+      "chapter": "Chapter 33: The Prince's Tale",
+      "speaker": "Harry Potter (set under Severus Snape's headmastership)",
+      "context": "Harry blurts out 'Dumbledore!' to the stone gargoyle while carrying Snape's memories; the gargoyle steps aside, revealing Snape's hidden loyalty."
+    },
+    {
+      "password": null,
+      "variants": [
+        "No password required — gargoyle knocked aside"
+      ],
+      "book": "Deathly Hallows",
+      "chapter": "Chapter 36: The Flaw in the Plan",
+      "speaker": "Harry Potter / lopsided stone gargoyle",
+      "context": "During the Battle of Hogwarts, the stone gargoyle was knocked aside and stands lopsided; when Harry asks 'Can we go up?', the statue groans 'Feel free.'"
+    }
+  ],
+  "eras": [
+    {
+      "id": "oop",
+      "book": "Harry Potter and the Order of the Phoenix",
+      "title": "Order of the Phoenix (Night Crisis, Ministry Escape & Dawn Rampage)",
+      "lightingAndAtmosphere": "Transitions across scenes: half-darkness at midnight (Ch. 22), explosive silver flash & Fawkes fire (Ch. 27), cool pale green pre-dawn horizon through window + emerald-green Floo flames + active grate fire (Ch. 37).",
+      "keyItemsPresent": [
+        "Enormous claw-footed desk and visitor chair(s)",
+        "Spindle-legged tables bearing whirring silver instruments",
+        "Divided-essence silver instrument (emitting pale green smoke forming two snakes, Ch. 22)",
+        "Lunascope (thrown into burning fireplace in Ch. 37)",
+        "Fawkes on golden perch (leaves in flash of fire in Ch. 22 & Ch. 27; present in Ch. 37)",
+        "Sorting Hat on shelf behind desk, Sword of Gryffindor in wall glass case, Pensieve stored in black cabinet",
+        "Active portrait network (Phineas Nigellus, Everard, Dilys Derwent, Dexter Fortescue, Armando Dippet)"
+      ],
+      "stateChanges": [
+        "Ch. 27: Desk overturned, spindly tables and silver instruments smashed during Dumbledore's escape; office subsequently seals against Umbridge.",
+        "Ch. 37: Harry smashes silver instruments against wall and portrait, throws lunascope into fireplace, breaks a spindle-legged table."
+      ],
+      "password": "Fizzing Whizzbee"
+    },
+    {
+      "id": "hbp",
+      "book": "Harry Potter and the Half-Blood Prince",
+      "title": "Half-Blood Prince (Pensieve Lessons & Post-Murder Mourning)",
+      "lightingAndAtmosphere": "Evening/nighttime private lesson atmosphere warmed by office lighting and Pensieve silver glow (Ch. 10–25); solemn post-battle night with grounds visible outside and Fawkes's lament drifting through open windows (Ch. 29).",
+      "keyItemsPresent": [
+        "All silver instruments and spindle-legged tables restored",
+        "Stone Pensieve placed on the desk for lessons",
+        "Small crystal/glass phials of silvery memories (one or two at a time beside Pensieve, plus Slughorn's congealed memory in Ch. 17)",
+        "Marvolo Gaunt's heavy gold ring with cracked black stone resting on table/desk (Ch. 10)",
+        "Horcrux books stored in office (removed from library; summoned out window by Hermione after Dumbledore's funeral in DH Ch. 6)",
+        "Ch. 29: Albus Dumbledore's newly appeared sleeping portrait in golden frame behind/over the desk",
+        "Ch. 29: Fawkes departs Hogwarts forever after singing his lament"
+      ],
+      "stateChanges": [
+        "Before Ch. 10: All Ch. 27/37 destruction completely restored.",
+        "Ch. 29: Dumbledore's portrait hangs sleeping in golden frame behind desk; McGonagall occupies office; Fawkes leaves."
+      ],
+      "password": "Acid Pops (Ch. 9–10); Toffee Eclairs (Ch. 20)"
+    },
+    {
+      "id": "dh",
+      "book": "Harry Potter and the Deathly Hallows",
+      "title": "Deathly Hallows (Snape's Tenure, Prince's Tale & Victory Finale)",
+      "lightingAndAtmosphere": "Tense dark night during the Battle of Hogwarts lull with mostly empty portrait frames and luminous Pensieve swirls (Ch. 33); bright post-battle morning/daylight celebration with crowded cheering portraits (Ch. 36).",
+      "keyItemsPresent": [
+        "Stone Pensieve returned inside black cabinet (Harry heaves it onto the desk in Ch. 33)",
+        "Glass case on wall displays FAKE Sword of Gryffindor during Snape's tenure (Ch. 15 & 33)",
+        "Hidden wall cavity behind hinged Dumbledore portrait conceals REAL Sword of Gryffindor until Snape retrieves it (Ch. 33)",
+        "In Snape's memories: cracked black-stoned ring & real sword on desk; silver doe Patronus leaping out office window",
+        "Fawkes absent (left at end of HBP)",
+        "Ch. 36: Stone gargoyle outside knocked aside/lopsided; Elder Wand used to cast 'Reparo' on Harry's snapped holly wand"
+      ],
+      "stateChanges": [
+        "Ch. 30: Snape flees Hogwarts, leaving office vacant.",
+        "Ch. 33: Harry enters with password 'Dumbledore' and views Snape's memories in Pensieve.",
+        "Ch. 36: Gargoyle knocked lopsided; portraits return and applaud; Dumbledore's portrait weeps with pride and advises Harry."
+      ],
+      "password": "Dumbledore (Ch. 33); None / Gargoyle knocked aside (Ch. 36)"
+    }
+  ],
+  "filmOnlyExclusions": [
+    {
+      "element": "Two-story mezzanine / upper balcony with wraparound spiral staircases inside the office",
+      "reasonExcluded": "Invented by film production designer Stuart Craig. Across all 7 novels, Dumbledore's office is a single-level large circular room; the only spiral staircase is the moving stone staircase outside behind the corridor gargoyle."
+    },
+    {
+      "element": "Giant hanging brass planetary orrery / astronomical armillary suspended from the ceiling",
+      "reasonExcluded": "Film set centerpiece only; never appears in any of the 7 novels (the novels feature tabletop whirring silver instruments on spindle-legged tables and a tabletop lunascope in OoP Ch. 37)."
+    },
+    {
+      "element": "Huge double-door apothecary-style memory cabinet with hundreds of glowing glass phials on floor-to-ceiling shelves",
+      "reasonExcluded": "Film adaptation of HBP invented a monumental double-door memory cabinet full of hundreds of vials. In the novels, the Pensieve lives in a black cabinet and only one or two small crystal/glass phials at a time are set out beside the Pensieve on the desk."
+    },
+    {
+      "element": "Rotating giant brass griffin statue at the corridor entrance",
+      "reasonExcluded": "Film-only substitution. In all 7 novels, the entrance guard is an 'ugly stone gargoyle' (which jumps aside as the wall splits in two to reveal a moving spiral staircase leading up to a gleaming oak door with a brass griffin knocker)."
+    },
+    {
+      "element": "Dumbledore sliding Tom Riddle's diary and Gaunt's ring into a desk drawer in HBP",
+      "reasonExcluded": "HBP film-only opening shot for Harry's first lesson; in the novel HBP Ch. 10, Marvolo Gaunt's ring sits openly on a spindle-legged table/desk surface while the Pensieve sits on the desk."
+    },
+    {
+      "element": "Twin curved stone staircases flanking a raised upper study platform",
+      "reasonExcluded": "Film set geometry; absent from all 7 books."
+    },
+    {
+      "element": "Floor-to-ceiling Yellow Pages library wall arches wrapping a two-story rotunda",
+      "reasonExcluded": "Film set dressing. While Horcrux books are stored inside Dumbledore's office in HBP/DH (summoned out the window by Hermione in DH Ch. 6), the towering two-story library architecture is film-only."
+    },
+    {
+      "element": "Harry snapping the Elder Wand in half and throwing it off a bridge",
+      "reasonExcluded": "Film DH Part 2 ending only. In the novel DH Ch. 36, Harry stands before Dumbledore's portrait in the Headmaster's office, mends his holly-and-phoenix-feather wand using 'Reparo' with the Elder Wand, and intends to return the Elder Wand to Dumbledore's tomb."
+    },
+    {
+      "element": "Lunar chart smashed/thrown in OoP Ch. 37",
+      "reasonExcluded": "Terminology check: OoP Ch. 37 explicitly specifies Harry threw a 'lunascope' (an astronomical moon-phase instrument) into the fireplace, not a paper 'lunar chart' (which Hermione/Astronomy use in PoA)."
+    },
+    {
+      "element": "Chintz armchair or cushions slashed/smashed in Dumbledore's office in OoP Ch. 37",
+      "reasonExcluded": "Canon placement check: Dumbledore conjures a squashy chintz armchair in Courtroom Ten (OoP Ch. 8) and Slughorn disguises himself as a chintz armchair at Budleigh Babberton (HBP Ch. 4); cushions appear in the Room of Requirement and Grimmauld Place. In OoP Ch. 37 inside Dumbledore's office, Harry smashes silver instruments, throws a lunascope into the fire, and breaks a spindle-legged table."
+    }
+  ]
+}
